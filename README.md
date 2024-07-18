@@ -1,4 +1,4 @@
-### <h1> Hi developers 👋</h1> 
+### <h1> Fala pessoal 👋</h1> 
 <h2>Sobre mim 💬</h2>
 <h6> Meu nome é Paulo, nasci em 87 e sou de Minas Gerais, moro em uma cidade de 7mil habitantes </h6>
 <p> Sou DBA 💻 Oracle no Tribunal de Contas do Estado de Minas Gerais. Trabalho com banco de dados em servidores Linux desde 2014 e venho conquistando conhecimento desde então. Trabalhei durante 2 anos com Business Intelligence, Obiee, QlikSense, Pentaho e PLSQL, o que só aumentou minha vontade de evoluir na área de banco de dados 🏹</p>
