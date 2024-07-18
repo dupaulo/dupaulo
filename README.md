@@ -1,12 +1,21 @@
 ### <h1> Hi developers 👋</h1> 
 <h2>Eu</h2>
-<p> Sou DBA 💻 Oracle no Tribunal de Contas do Estado de Minas Gerais, trabalho com banco de dados em servidores Linux desde 2014 e venho conquistando conhecimento desde então. Trabalhei durante 2 anos com Business Intelligence, Obiee, QlikSense, Pentaho e PLSQL, o que só aumentou minha vontade de evoluir na área de banco de dados. Tenho como próximos objetivos 🏹 aprender banco de dados não relacional, um desafio para o segundo semestre de 2020. </p>
+<p> Sou DBA 💻 Oracle no Tribunal de Contas do Estado de Minas Gerais. Trabalho com banco de dados em servidores Linux desde 2014 e venho conquistando conhecimento desde então. Trabalhei durante 2 anos com Business Intelligence, Obiee, QlikSense, Pentaho e PLSQL, o que só aumentou minha vontade de evoluir na área de banco de dados 🏹</p>
 
-<h2>Atualmente 📚 </h2>
-<p>Atualmente estou estudando 📚 sobre PYTHON, base de dados não relacionais, javascript, html, css, php e frameworks ligados a front-end🌱. Sempre gostei de programar para web 🔭. Recentemente fiz alguns cursos online para me atualizar isso tem me ajudado muito 😄 no melhor entendimento de como andam as tecnologias web atualmente 👋.</p>
+<h2>Atualmente 📚</h2>
+<p>Atualmente estou estudando 📚 engenharia de dados em uma pós-graduação na PUC Minas.</p>
 
+<ul>
+  <li>DevOps: Docker</li>
+  <li>Database: Oracle, MongoDB, MariaDB, MySQL, SQL Server, PostgreSQL</li>
+  <li>Programming: Python</li>
+</ul>
 
+<p>Abrindo caminho na imensidão de dados.</p>
 
+- sinta-se a vontade para se conectar
+
+- 💬 https://www.linkedin.com/in/pauloeduardohsilva/ 
 
 <!--
 **dupaulo/dupaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
